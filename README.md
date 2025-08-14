@@ -1,6 +1,11 @@
 # FireSimulation
 Fire scenario simulation method for residential building
+## Methodology  
+The framework of the proposed method is shown in the figure below.  
+![Uploading image.png…]()
 
+Relevant details can be found in the paper:  
+Cheng, Qingle, et al. "Fire scenario simulation method for residential buildings based on generative adversarial network." *Developments in the Built Environment* (2025): 100720.
 This video demonstrates the Fire Simulation Method Based on GAN, as proposed by Qingle Cheng (chengql94@163.com), currently under submission for publication, for academic and research purposes only.
 
 
