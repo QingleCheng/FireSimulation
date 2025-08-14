@@ -2,7 +2,7 @@
 Fire scenario simulation method for residential building
 ## Methodology  
 The framework of the proposed method is shown in the figure below.  
-![Uploading image.png…]()
+![Method Framework](img.png)  
 
 Relevant details can be found in the paper:  
 Cheng, Qingle, et al. "Fire scenario simulation method for residential buildings based on generative adversarial network." *Developments in the Built Environment* (2025): 100720.
